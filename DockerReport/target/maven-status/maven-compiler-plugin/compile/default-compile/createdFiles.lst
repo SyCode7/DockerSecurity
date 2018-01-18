@@ -1,0 +1,8 @@
+de\reports\CVSSv2.class
+de\reports\Layer.class
+de\reports\NVD.class
+de\reports\Feature.class
+de\reports\Metadata.class
+de\reports\Layers.class
+de\reports\ScanReport.class
+de\reports\Vulnerability.class
